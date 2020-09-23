@@ -1,6 +1,6 @@
 ### Hi, I'm Richard 👋🏿
 
-I'm a software engineer currently based in The Big :apple:. I'm a passionate coder who wants to create technology that helps to elevate people and push technology forward. Some technologies I currently enjoy working with are React/React-Native , Python/Flask, and MongoDB  
+I'm a software engineer currently based in The Big :apple:. I'm a passionate coder who wants to create technology that helps to elevate and connect people and push technology forward as a whole. Some technologies I currently enjoy working with are React/React-Native , Python/Flask, and MongoDB  
 
 <!--
 **RichardJeanBaptiste/RichardJeanBaptiste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
