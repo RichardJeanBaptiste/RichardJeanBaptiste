@@ -1,4 +1,6 @@
-### Hi, I'm Richard https://hotemoji.com/images/dl/r/5-waving-hand-emoji-by-google.png
+### Hi, I'm Richard 👋🏿
+
+I'm a software engineer currently based in The Big :apple:. I'm a passionate coder who wants to create technology that helps to elevate people and push technology forward. 
 
 <!--
 **RichardJeanBaptiste/RichardJeanBaptiste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
