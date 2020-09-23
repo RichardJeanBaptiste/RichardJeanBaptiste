@@ -1,4 +1,4 @@
-### Hey there I'm Richard👋
+### Hi, I'm Richard https://hotemoji.com/images/dl/r/5-waving-hand-emoji-by-google.png
 
 <!--
 **RichardJeanBaptiste/RichardJeanBaptiste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
